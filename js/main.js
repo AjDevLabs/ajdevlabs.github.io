@@ -7,15 +7,8 @@ var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 var letterColors = [red, orange, green, blue, purple];
 
-drawName(myName, letterColors);
-
-if(2 < 3)
-{
     bubbleShape = 'square';
-}
-else
-{
-    bubbleShape = 'circle';
-}
+    //bubbleShape = 'circle';
+
 
 bounceBubbles();
